@@ -23,6 +23,16 @@ A game launcher for Windows, macOS and Linux. It gathers the games you own on ot
 
 The [roadmap](https://www.arcane-powered.com/roadmap) shows where each one stands.
 
+## AI disclosure
+
+Yes, we use AI to help build Arcane Powered. It helps us write code, tests and documentation, and think through options faster than we could alone.
+
+But it's a tool, not the one making the calls. I started as a fullstack developer, then moved into DevOps, and I care about doing this properly: what the AI writes gets read and understood before it ships, and when it's wrong, we fix it. Every line we publish is our responsibility, whoever typed the first draft.
+
+If something looks off, come and tell us on Discord. We'd genuinely rather hear it.
+
+
+
 ## Privacy
 
 - The client sends path templates, never the layout of your PC.
